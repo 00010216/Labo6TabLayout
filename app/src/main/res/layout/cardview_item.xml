@@ -24,7 +24,7 @@
                 android:scaleType="centerCrop"
                 android:layout_gravity="center_vertical"
                 android:layout_height="match_parent"
-                android:src="@drawable/the_romanosInbi_japanese_restaurant"
+                android:src="@drawable/the_romanosinbi_japanese_restaurant"
                 />
 
         </FrameLayout>
