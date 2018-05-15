@@ -1,15 +1,15 @@
 package com.example.kcruz.labo6tabs.models;
 
-public class Dish {
-    private String type; //breakfast, lunch, dinner
+public class Restaurant {
+    private String type; //chinese, mediterranean
     private int photo;
     private String name;
     private String description;
 
-    public Dish() {
+    public Restaurant() {
     }
 
-    public Dish(String type, int photo, String name, String description) {
+    public Restaurant(String type, int photo, String name, String description) {
         this.type = type;
         this.photo = photo;
         this.name = name;
