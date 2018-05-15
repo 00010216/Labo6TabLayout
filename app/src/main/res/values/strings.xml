@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labo6Tabs</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="favorites">Favorites</string>
+</resources>
