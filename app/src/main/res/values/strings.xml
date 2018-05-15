@@ -2,4 +2,9 @@
     <string name="app_name">Labo6Tabs</string>
     <string name="restaurants">Restaurants</string>
     <string name="favorites">Favorites</string>
+    <string name="add_favr">Agregado a Favoritos</string>
+    <string name="remove_favr">Eliminado de Favoritos</string>
+    <string name="no_favorites_items">Sin Favoritos</string>
+    <string name="no_favorites_msg">Mantén presionado un item para agregarlo a favoritos.</string>
+    <string name="favorites_remove_msg">Mantén presionado un item para agregarlo a favoritos.</string>
 </resources>
